@@ -1,0 +1,4 @@
+#Sun Feb 10 08:24:57 IST 2019
+base.0=/Users/anish/Desktop/TestARR/latest/TestProAR/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

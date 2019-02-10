@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c0a5f92b2139b75280edc21eb2b8599e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0321ced200285c3c089da666c4351ff0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f5b3d48c14b8d55b1d4bd17851264d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67d8016912fcba16504d4aba8a715ba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/021d4ccfc060a0827f414237d3c5ff2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41fe62e7e1746b4a67639507636c107a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ade36fb0e0b02459df7d317b5fb69964/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fbb7203b942df82bbfa1b742ea16584b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e6a375dbee82d1bc2bdfa7316fbee54e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5330ce794db627371405c6a95f8ce526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/896d40fdb62f491e92a9fd5499ed9a4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00f7366cb6ba289f65674c97810acb98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/feaece67f78db7b617fa72138693da39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/050f538fb4fdec6f34cf90b023d96eec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e552fc094d28ca90d60367c51f7c1f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a3333fd78cea62995079daaf1e33a221/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/144756b67707e01ece258ad5d5ea8c1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40f49f2b1abbb0074e787d73bbf5b234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/45d1c9e216c982ad405e67068bd23a70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b6aa71a1e0f04cbb04df478e0c10d840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d0e3e8dde5694009b0f50f2206988002/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b78327b86bfbdd02e9efbe1d287e6797/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b67b4b30f2a9fa83837546f38b65302a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af18d6fe6240921641abc107b233c057/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/39c76a3ddc634aa35641efe913a316d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/94a3c3cd99fe98ba87c3e4ad60e66f80/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:8:9-34
+uses-feature#0x00030001
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:14:19-51
+uses-feature#android.hardware.vulkan
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:16:9-47
+uses-permission#android.permission.CAMERA
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:19:5-65
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:19:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:21:5-23:36
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:23:9-33
+		MERGED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:22:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:37:9-72
+application
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:40:5-78:19
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:19:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0321ced200285c3c089da666c4351ff0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0321ced200285c3c089da666c4351ff0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a3333fd78cea62995079daaf1e33a221/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a3333fd78cea62995079daaf1e33a221/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:44:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:42:9-40
+	android:banner
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:41:9-46
+	android:theme
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:45:9-50
+	android:isGame
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:43:9-30
+activity#com.xyz.logixar.MainActivity
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:46:9-54:20
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:46:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:51:27-74
+activity#com.xyz.logixar.UnityPlayerActivity
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:55:9-67:20
+	android:screenOrientation
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:61:13-51
+	android:label
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:59:13-45
+	android:launchMode
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:60:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:58:13-48
+	android:configChanges
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:57:13-194
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:56:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:64:13-66:40
+	android:value
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:66:17-37
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:65:17-57
+meta-data#unity.build-id
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:69:9-71:68
+	android:value
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:71:13-65
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:70:13-42
+meta-data#unity.splash-mode
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:72:9-74:33
+	android:value
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:74:13-30
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:73:13-45
+meta-data#unity.splash-enable
+ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:75:9-77:36
+	android:value
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:77:13-33
+	android:name
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:76:13-47
+uses-sdk
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c0a5f92b2139b75280edc21eb2b8599e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c0a5f92b2139b75280edc21eb2b8599e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0321ced200285c3c089da666c4351ff0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0321ced200285c3c089da666c4351ff0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f5b3d48c14b8d55b1d4bd17851264d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f5b3d48c14b8d55b1d4bd17851264d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67d8016912fcba16504d4aba8a715ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/67d8016912fcba16504d4aba8a715ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/021d4ccfc060a0827f414237d3c5ff2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/021d4ccfc060a0827f414237d3c5ff2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41fe62e7e1746b4a67639507636c107a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41fe62e7e1746b4a67639507636c107a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ade36fb0e0b02459df7d317b5fb69964/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ade36fb0e0b02459df7d317b5fb69964/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fbb7203b942df82bbfa1b742ea16584b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fbb7203b942df82bbfa1b742ea16584b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e6a375dbee82d1bc2bdfa7316fbee54e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e6a375dbee82d1bc2bdfa7316fbee54e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5330ce794db627371405c6a95f8ce526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5330ce794db627371405c6a95f8ce526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/896d40fdb62f491e92a9fd5499ed9a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/896d40fdb62f491e92a9fd5499ed9a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00f7366cb6ba289f65674c97810acb98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00f7366cb6ba289f65674c97810acb98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/feaece67f78db7b617fa72138693da39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/feaece67f78db7b617fa72138693da39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/050f538fb4fdec6f34cf90b023d96eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/050f538fb4fdec6f34cf90b023d96eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e552fc094d28ca90d60367c51f7c1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e552fc094d28ca90d60367c51f7c1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/48b1a14f0820cefd84961853d5472a8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a3333fd78cea62995079daaf1e33a221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a3333fd78cea62995079daaf1e33a221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/144756b67707e01ece258ad5d5ea8c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/144756b67707e01ece258ad5d5ea8c1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40f49f2b1abbb0074e787d73bbf5b234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40f49f2b1abbb0074e787d73bbf5b234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/45d1c9e216c982ad405e67068bd23a70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/45d1c9e216c982ad405e67068bd23a70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b6aa71a1e0f04cbb04df478e0c10d840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b6aa71a1e0f04cbb04df478e0c10d840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d0e3e8dde5694009b0f50f2206988002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d0e3e8dde5694009b0f50f2206988002/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b78327b86bfbdd02e9efbe1d287e6797/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b78327b86bfbdd02e9efbe1d287e6797/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b67b4b30f2a9fa83837546f38b65302a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b67b4b30f2a9fa83837546f38b65302a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af18d6fe6240921641abc107b233c057/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af18d6fe6240921641abc107b233c057/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/39c76a3ddc634aa35641efe913a316d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/39c76a3ddc634aa35641efe913a316d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/94a3c3cd99fe98ba87c3e4ad60e66f80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/94a3c3cd99fe98ba87c3e4ad60e66f80/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		ADDED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:17:22-78
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/anish/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/db596075b350f8015093fa347e5fd47b/AndroidManifest.xml:28:13-54
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/anish/Desktop/TestARR/latest/TestProAR/src/main/AndroidManifest.xml:2:1-80:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
